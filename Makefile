@@ -1,2 +1,2 @@
 all: Dockerfile
-	docker build .
+	docker build -t gcc-arm-none-eabi .
